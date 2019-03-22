@@ -1,0 +1,4 @@
+#Thu Mar 21 16:26:54 CST 2019
+base.0=D\:\\Demo\\sample\\YuYinDemo\\mscV5PlusDemo\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

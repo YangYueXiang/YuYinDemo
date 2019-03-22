@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Demo\\sample\\YuYinDemo\\mscV5PlusDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\星亿达\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.5.aar\\fc09e47ad66f72f221055ae233f8b2e8\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "10",
+                        "endOffsets": "140"
+                    }
+                }
+            ]
+        }
+    ]
+}
